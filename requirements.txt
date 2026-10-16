@@ -1,0 +1,8 @@
+# Beat Shabber AI — pinned working versions (Python 3.11)
+pygame==2.6.1
+opencv-python==5.0.0.93
+numpy==2.4.6
+librosa==0.11.0
+mediapipe==0.10.14
+soundfile==0.14.0
+scipy==1.17.1
